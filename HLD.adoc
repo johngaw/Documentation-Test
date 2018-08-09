@@ -1,0 +1,47 @@
+= Sample HLD
+john gaw john_gaw@hotmail.com
+09/08/2018 draft 0.a
+:toc: macro
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: ./styles
+
+== Table of Contents
+toc::[]
+
+== Introduction
+
+Introduction section, what are we doing and why
+
+== Scope
+
+== Background
+
+== Referenced documents
+
+== Risks, Assumptions, Issues and Dependencies
+
+== Constraints (Standards, Policies, Guidelines)
+
+== Timescales
+
+== Impact on Existing Infrastructure
+
+== Relationship with other Service Modules
+
+== Design Overview
+
+=== Management Summary
+
+=== Design Principles
+
+=== Design Rationale
+
+=== Architectural Summary
+
+=== Overall Description
+
+== Addressing Functional Requirements
+
+== Addressing Non-Functional Requirements
+
